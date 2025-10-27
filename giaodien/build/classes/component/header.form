@@ -53,7 +53,7 @@
     </DimensionLayout>
   </Layout>
   <SubComponents>
-    <Component class="swing.circlebutton" name="circlebutton1">
+    <Component class="swing.CircleButton" name="circlebutton1">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="cc" green="cc" red="cc" type="rgb"/>
@@ -63,7 +63,7 @@
         </Property>
       </Properties>
     </Component>
-    <Component class="swing.circlebutton" name="circlebutton2">
+    <Component class="swing.CircleButton" name="circlebutton2">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="cc" green="cc" red="cc" type="rgb"/>

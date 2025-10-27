@@ -14,7 +14,7 @@ public class Menu extends javax.swing.JPanel {
     private void initComponents() {
 
         roundpanel3 = new swing.roundpanel();
-        circlebutton1 = new swing.circlebutton();
+        circlebutton1 = new swing.CircleButton();
         jLabel1 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
         roundpanel5 = new swing.roundpanel();
@@ -92,7 +92,7 @@ public class Menu extends javax.swing.JPanel {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private swing.circlebutton circlebutton1;
+    private swing.CircleButton circlebutton1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private swing.roundpanel roundpanel3;

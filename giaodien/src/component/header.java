@@ -23,8 +23,8 @@ public class header extends javax.swing.JPanel {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        circlebutton1 = new swing.circlebutton();
-        circlebutton2 = new swing.circlebutton();
+        circlebutton1 = new swing.CircleButton();
+        circlebutton2 = new swing.CircleButton();
 
         setPreferredSize(new java.awt.Dimension(400, 60));
 
@@ -88,7 +88,7 @@ public class header extends javax.swing.JPanel {
     }
     
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private swing.circlebutton circlebutton1;
-    private swing.circlebutton circlebutton2;
+    private swing.CircleButton circlebutton1;
+    private swing.CircleButton circlebutton2;
     // End of variables declaration//GEN-END:variables
 }
